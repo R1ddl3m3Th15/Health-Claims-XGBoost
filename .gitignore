@@ -1,0 +1,5 @@
+# Ignore Health Claims directory
+Health Claims/
+
+# Ignore CSV files
+*.csv
